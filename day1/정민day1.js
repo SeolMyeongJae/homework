@@ -7,6 +7,8 @@ node 파일명.js 입력하면 됨
 
 // 문제 1
 
+const reverse = () => {};
+
 function reverse() {
   // numbers 배열을 역순으로 console.log로 출력하는 reverse 함수 완성
   let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
